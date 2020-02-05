@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "cp client/src/index.html client/dist/index.html && webpack --mode development"
+    "build": "mkdir -p client/dist && cp client/src/index.html client/dist/index.html && webpack --mode development"
   },
   "repository": {
     "type": "git",
