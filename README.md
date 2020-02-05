@@ -6,8 +6,8 @@ Consists of a Flask backend running on AWS Lambda with a React.js front end.
 
 ### Motivation
 
-Experiment with Flask
-Experiment with presigned urls
+Experiment with Flask  
+Experiment with presigned urls  
 
 ### Install
 
